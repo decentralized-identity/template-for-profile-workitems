@@ -1,9 +1,9 @@
 # Template Instructions
 
-1. Assign work item leads by their github handles in the [CODEOWNERS]() file.
+1. Assign work item leads by their github handles in the [CODEOWNERS](./CODEOWNERS) file.
 2. Tag overseeing WG with that WG's tag (i.e. #ccwg)
-3. Assign orgs/teams within DIF and openness to external PRs depending on IPR policy
-4. Get to definitioning. A starter document structure can be found in `single-file-test/spec.md`. This guide can be expanded and altered but folling the highlevel strucutre will make it easier for readrs to get up to speed with the profile. 
+3. Assign orgs/teams within DIF and define openness to external PRs depending on IPR policy
+4. Get to definitioning. A starter document structure can be found in `single-file-test/spec.md`. This guide can be expanded and altered but following the high level structure will make it easier for readers to get up to speed with the profile.
 
 ## Spec-Up
 
