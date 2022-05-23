@@ -5,6 +5,8 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
+
+# Editors
 .vscode/*
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
@@ -103,3 +105,6 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Misc
+.DS_Store
