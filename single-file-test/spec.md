@@ -10,7 +10,7 @@ Editors:
 ~ [<Each editor's plain text name>]([Company](https://example.com))
 
 Contributors:
-~ [<Each contributor's plain text name>]([Company](https://example.com))
+~ <Each contributor's plain text name>([Company](https://example.com), @{github handle})
 
 Participate:
 ~ [GitHub repo](https://github.com/decentralized-identity/<profile-name>)
