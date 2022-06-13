@@ -7,7 +7,7 @@ Template for a Profile
   [https://identity.foundation/<profile-name>](https://identity.foundation/<profile-name>)
 
 Editors:
-~ [<Each editor's plain text name>]([Company](https://example.com))
+~ <Each editor's plain text name>([Company](https://example.com), @{github handle})
 
 Contributors:
 ~ <Each contributor's plain text name>([Company](https://example.com), @{github handle})
